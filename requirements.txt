@@ -1,6 +1,5 @@
 jupyterlab
 pandas
-warnings
 voila
 numpy
 IPython
