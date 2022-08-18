@@ -5,7 +5,7 @@ textblob
 plotly-express
 voila
 numpy
-IPython.core.display
+from IPython.core.display import display, HTML
 plotly.offline
 init_notebook_mode
 iplot
