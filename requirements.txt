@@ -1,11 +1,8 @@
 jupyterlab
-requests
 pandas
-textblob
-plotly-express
+warnings
 voila
 numpy
-display
-HTML
+IPython
 plotly
-iplot
+plotly.offline
