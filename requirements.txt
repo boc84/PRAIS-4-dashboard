@@ -4,4 +4,4 @@ voila
 numpy
 IPython
 plotly
-plotly.offline
+
