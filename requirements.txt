@@ -4,4 +4,3 @@ voila
 numpy
 IPython
 plotly
-
