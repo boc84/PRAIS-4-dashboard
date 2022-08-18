@@ -4,3 +4,10 @@ pandas
 textblob
 plotly-express
 voila
+numpy
+warnings
+IPython.core.display
+plotly.offline
+init_notebook_mode
+iplot
+plotly.graph_objs
